@@ -26,4 +26,6 @@ cat /etc/redhat-release
 </code></pre>
 
 * 리눅스 커널 아키텍쳐 확인하기
-    uname -m
+<pre><code>
+uname -m
+</code></pre>
