@@ -18,7 +18,6 @@ This is for Linux Mint
 
 ## 3. 리눅스 명령어
 
-* 리눅스 버전 확인 <pre><code>
-  cat /etc/issue 
+* 리눅스 버전 확인 <pre><code> cat /etc/issue 
   cat /etc/redhat-release
   </code></pre>
