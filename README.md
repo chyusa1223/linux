@@ -18,6 +18,12 @@ This is for Linux Mint
 
 ## 3. 리눅스 명령어
 
-* 리눅스 버전 확인 <pre><code> cat /etc/issue 
-  cat /etc/redhat-release
-  </code></pre>
+* 리눅스 버전 확인 
+<pre><code> 
+cat /etc/issue 
+
+cat /etc/redhat-release
+</code></pre>
+
+* 리눅스 커널 아키텍쳐 확인하기
+    uname -m
