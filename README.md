@@ -19,4 +19,4 @@ This is for Linux Mint
 ## 3. 리눅스 명령어
 
 * 리눅스 버전 확인
-  cat /etc/issue
+  <pre><code>cat /etc/issue</code></pre>
