@@ -38,7 +38,7 @@ uname -m
 ## 4. 각종 에러들
 
 * vim ymcd 서버 에러 대처
-  > [해결방법] https://stackoverflow.com/questions/31421327/cmake-cxx-compiler-broken-while-compiling-with-cmake
+  > [해결방법](https://stackoverflow.com/questions/31421327/cmake-cxx-compiler-broken-while-compiling-with-cmake)
   ```
   sudo apt-get update
   sudo apt-get install -y build-essential
