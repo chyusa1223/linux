@@ -244,14 +244,15 @@ sudo apt-get install gnome-tweak-tool
 ```
 chsh -s /usr/bin/zsh
 ```
-재부팅 이후 초기 설정 진행
+   재부팅 이후 초기 설정 진행
 
 * oh my zsh 설치 
 ```
 sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 
 ```
-* zsh theme 설치 
+* zsh theme 설치 ( powerlevel10k )
 ```
 
 ```
+
