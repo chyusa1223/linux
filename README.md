@@ -237,7 +237,7 @@ sudo apt-get install pinta
 * zsh 설치
 
 ```
-sudo apt-get install gnome-tweak-tool
+sudo apt-get install zsh
 ```
 
 * 기본 shell을 Zsh로 변경
@@ -251,8 +251,11 @@ chsh -s /usr/bin/zsh
 sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 
 ```
+
 * zsh theme 설치 ( powerlevel10k )
 ```
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
+```  
 
-```
-
+     after install write ZSH_THEME="powerlevel10k/powerlevel10k"
+     재부팅 진행
