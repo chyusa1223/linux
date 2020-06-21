@@ -3,6 +3,33 @@
 
 ### 1.1 Github 명령어들 
 
+* Git Init
+   Git으로 관리하려는 폴더로 이동 후 실행
+```
+git init
+```
+
+* 저장소 복제
+   폴더로 이동 후 실행
+```
+git clone <url>
+```
+
+* 원격 저장소 추가
+```
+git remote add <원격 저장소> <url>
+```
+
+* 저장소 별 사용자명/email 구성
+   Git으로 관리하려는 폴더로 이동 후 실행
+```
+git config user.name "Name"
+git config user.email "email"
+```
+
+
+
+
 
 ### 1.2 Github 위키 및 문서 작성법
 
