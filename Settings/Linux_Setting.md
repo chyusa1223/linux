@@ -206,5 +206,16 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~
 
 ### 2.5 Vim 설정
 
- * vimrc 파일
+* Vundle 설치
+    vim Plugin 관리를 위한 Vundle을 설치한다. 
+```
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+```
+    
+* vimrc 파일
+
     >[.vimrc](https://github.com/chyusa1223/linux/blob/master/Settings/Init/.vimrc)
+
+* vim Setting
+
+    위 두 과정이 끝났다면 Vim 실행 후 :PluginInstall 실행하면 추가한 Plugin들이 설치된다. 
