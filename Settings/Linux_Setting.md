@@ -186,7 +186,9 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~
 
      after install write ZSH_THEME="powerlevel10k/powerlevel10k"
      재부팅 진행
-
+     
+* zshrc 파일
+    >[.zshrc](https://github.com/chyusa1223/linux/blob/master/Settings/Init/.zshrc)
 
 ### 2.4 Emacs 설정
 
@@ -196,7 +198,13 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~
     >[Emacs 설정 및 사용법](https://www.youtube.com/watch?v=49kBWM3RQQ8&list=PL9KxKa8NpFxIcNQa9js7dQQIHc81b0-Xg)
   
   * 위 링크를 기본으로 하여 한글, vim키 사용, cmake-ide등 일부 추가 
-    >[myinit.org](https://github.com/chyusa1223/linux/blob/master/myinit.org)
+    >[myinit.org](https://github.com/chyusa1223/linux/blob/master/Settings/Init/myinit.org)
 
   * init.el 참조
-    >[init.el](https://github.com/chyusa1223/linux/blob/master/init.el)
+    >[init.el](https://github.com/chyusa1223/linux/blob/master/Settings/Init/init.el)
+
+
+### 2.5 Vim 설정
+
+ * vimrc 파일
+    >[.vimrc](https://github.com/chyusa1223/linux/blob/master/Settings/Init/.vimrc)
