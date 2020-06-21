@@ -71,7 +71,7 @@ git branch -b <branch_name> ( 만약 checkout까지 하기 원한다면 )
 ```
 
 * 위의 명령어는 Git자체를 사용하기 위한 최소한의 명령어 이며, 문제 상황에 대처하거나 git내부적인 내용은
-  >[Git 심화]()
+  >[Git 심화](https://github.com/chyusa1223/linux/blob/master/Git/Git_P.md)
 
 ### 1.2 Github 위키 및 문서 작성법
 
