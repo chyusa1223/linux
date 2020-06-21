@@ -1,6 +1,5 @@
 
 This is for Linux Ubuntu 18.04 Init-Settings
-
 =========================
 
 ## 1. 기초 작업 
