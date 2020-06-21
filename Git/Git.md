@@ -62,6 +62,17 @@ git push origin master
       브랜치이며, origin저장소에 있는 master 브랜치가 가리키는 커밋을 그대로 가리키는 브랜치이다. 리모트
       저장소의 브랜치를 Fetch해 오면 이 브랜치가 업데이트된다. 
 
+     >[Remote Branch](https://git-scm.com/book/ko/v2/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EB%A6%AC%EB%AA%A8%ED%8A%B8-%EB%B8%8C%EB%9E%9C%EC%B9%98)
+
+* 브랜치 생성 
+
+```
+git branch <branch_name>
+git branch -b <branch_name> ( 만약 checkout까지 하기 원한다면 )
+```
+
+* 위의 명령어는 Git자체를 사용하기 위한 최소한의 명령어 이며, 문제 상황에 대처하거나 git내부적인 내용은
+  >[Git 심화]()
 
 ### 1.2 Github 위키 및 문서 작성법
 
