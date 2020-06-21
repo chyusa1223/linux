@@ -192,8 +192,11 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~
 
 * init파일 생성 및 작성 
   
-  - Emacs 사용에 대하여 기초부터 상세히 설명 아주 유용함. 
-  >[Emacs 설정 및 사용법](https://www.youtube.com/watch?v=49kBWM3RQQ8&list=PL9KxKa8NpFxIcNQa9js7dQQIHc81b0-Xg)
+  * Emacs 사용에 대하여 기초부터 상세히 설명 아주 유용함. 
+    >[Emacs 설정 및 사용법](https://www.youtube.com/watch?v=49kBWM3RQQ8&list=PL9KxKa8NpFxIcNQa9js7dQQIHc81b0-Xg)
   
-  - 위 링크를 기본으로 하여 한글, vim키 사용, cmake-ide등 일부 추가 
-  >[myinit.org](https://github.com/chyusa1223/linux/blob/master/myinit.org)
+  * 위 링크를 기본으로 하여 한글, vim키 사용, cmake-ide등 일부 추가 
+    >[myinit.org](https://github.com/chyusa1223/linux/blob/master/myinit.org)
+
+  * init.el 참조
+    >[init.el](https://github.com/chyusa1223/linux/blob/master/init.el)
