@@ -46,18 +46,17 @@ git commit -m "commit message"
    Working tree에 있던 파일들의 수정 내역들을 인덱스에 staging한 이후, commit을 진행하고 이를
    원격 저장소에 저장하는 작업.
 ```
-git push origin master 
+git commit -m "commit message"
 ```
-
-    - origin의 의미
+   - origin의 의미
       Git에서 git clone 실행 시 자동으로 만들어주는 remote 이름이다. git clone -o <name>으로 지정할 경우,
       <name>/master처럼 사용자가 지정한대로 리모트 이름을 생성한다. 
 
-    - master의 의미
+   - master의 의미
       Git에서 master또한 다른 사용자가 생성하는 것과 동일한 브랜치이나 git init 명령으로 초기화 할 때 자동으로
       만들어지며, 대부분 이를 애써 이를 다른 이름으로 변경하지 않기 때문이다.
 
-    - origin/master
+   - origin/master
       리모트 트래킹 브랜치는 <remote>/<branch> 형식으로 나타낸다. 따라서 origin/master또한 리모트 트래킹
       브랜치이며, origin저장소에 있는 master 브랜치가 가리키는 커밋을 그대로 가리키는 브랜치이다. 리모트
       저장소의 브랜치를 Fetch해 오면 이 브랜치가 업데이트된다. 
