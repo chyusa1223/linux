@@ -219,3 +219,15 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 * vim Setting
 
     위 두 과정이 끝났다면 Vim 실행 후 :PluginInstall 실행하면 추가한 Plugin들이 설치된다. 
+
+### 2.6 Bluetooth 설정
+
+* 업데이트 진행
+    무선키보드 사용시 매번 컴퓨터에 로그인 후 연결이 정상적으로 수행되지 않아서 다시 재부팅해야하는 현상이 있었음. 
+```
+dpkg --status bluez | grep '^Version:'
+sudo add-apt-repository ppa:bluetooth/bluez
+sudo apt-get update
+sudo apt upgrade
+```
+    
