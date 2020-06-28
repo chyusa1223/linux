@@ -230,4 +230,4 @@ sudo add-apt-repository ppa:bluetooth/bluez
 sudo apt-get update
 sudo apt upgrade
 ```
-    
+   >[Auto_Connect 참조](https://askubuntu.com/questions/1170809/how-do-i-get-a-bluetooth-speaker-to-auto-connect-at-login)
