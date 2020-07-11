@@ -203,6 +203,8 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~
   * init.el 참조
     >[init.el](https://github.com/chyusa1223/linux/blob/master/Settings/Init/init.el)
 
+  * emacs 한글 설정
+    >[한글 설정](https://m.blog.naver.com/PostView.nhn?blogId=jodi999&logNo=221256569685&proxyReferer=https:%2F%2Fwww.google.com%2F)
 
 ### 2.5 Vim 설정
 
